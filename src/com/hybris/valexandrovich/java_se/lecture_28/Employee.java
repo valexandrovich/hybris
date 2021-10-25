@@ -1,4 +1,4 @@
-package com.hybris.valexandrovich.lecture_28;
+package com.hybris.valexandrovich.java_se.lecture_28;
 
 public class Employee implements Comparable<Employee>{
     String name;

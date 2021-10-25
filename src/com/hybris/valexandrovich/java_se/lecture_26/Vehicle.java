@@ -1,4 +1,4 @@
-package com.hybris.valexandrovich.lecture_26;
+package com.hybris.valexandrovich.java_se.lecture_26;
 
 public class Vehicle {
     String make;
