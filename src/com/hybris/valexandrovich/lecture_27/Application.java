@@ -1,9 +1,14 @@
 package com.hybris.valexandrovich.lecture_27;
 
+import com.hybris.valexandrovich.Logger;
+
 import java.util.HashSet;
 
 public class Application {
     public static void main(String[] args) {
+
+        Logger.addLine("------- " + Application.class.getName() + " -------");
+
         HashSet<Animal> animals = new HashSet<>();
 
         Animal animal1 = new Animal("Dog", 12);
@@ -18,12 +23,9 @@ public class Application {
         animals.add(animal4);
         animals.add(animal5);
 
-        System.out.println(animal1.equals(animal4));
-        System.out.println(animal1.hashCode());
-        System.out.println(animal4 .hashCode());
-
         for (Animal animal : animals){
             System.out.println(animal);
+            Logger.addLine(String.valueOf(animal));
         }
     }
 }

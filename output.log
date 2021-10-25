@@ -3,5 +3,18 @@
 200
 45
 1000
+------- com.hybris.valexandrovich.lecture_26.Application -------
+Vehicle{make='Honda', model='Accord', price=12000, fourWDrive=false}
+Vehicle{make='Toyota', model='Camry', price=12000, fourWDrive=false}
+Vehicle{make='Jeep', model='Wrangler', price=25000, fourWDrive=true}
+Lion
+cat
+Dog
+Bird
+------- com.hybris.valexandrovich.lecture_27.Application -------
+Animal{name='Dog', age=12}
+Animal{name='Kangaroo', age=24}
+Animal{name='Bird', age=3}
+Animal{name='Cat', age=8}
 -------------------------------------------------------------
 
