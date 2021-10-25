@@ -6,5 +6,6 @@ public class RootApplication {
         com.hybris.valexandrovich.lecture_26.Application.main(null);
         com.hybris.valexandrovich.lecture_27.Application.main(null);
         com.hybris.valexandrovich.lecture_28.Application.main(null);
+        com.hybris.valexandrovich.lecture_29.Application.main(null);
     }
 }
