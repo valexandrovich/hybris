@@ -1,9 +1,9 @@
 package com.hybris.valexandrovich.java_se.lecture_37;
 
 public class Sequence {
-    private int value;
+    int value;
 
-    public int getNext() {
+    public synchronized int nextValue() {
         value++;
         return value;
     }

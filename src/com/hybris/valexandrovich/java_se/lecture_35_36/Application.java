@@ -34,7 +34,7 @@ public class Application {
         Thread t2 = new Thread(new Runnable() {
             @Override
             public void run() {
-                for (int i = 0; i < 1000; i++) {
+                for (int i = 0; i < 100; i++) {
                     System.out.println("Number: " + i + " - " + Thread.currentThread().getName());
                     Logger.addLine("Number: " + i + " - " + Thread.currentThread().getName());
                     try {
