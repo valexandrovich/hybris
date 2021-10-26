@@ -7,6 +7,7 @@ public class RootApplication {
         com.hybris.valexandrovich.java_se.lecture_27.Application.main(null);
         com.hybris.valexandrovich.java_se.lecture_28.Application.main(null);
         com.hybris.valexandrovich.java_se.lecture_29.Application.main(null);
-        com.hybris.valexandrovich.java_se.threading.Application.main(null);
+        com.hybris.valexandrovich.java_se.lecture_35_36.Application.main(null);
+        com.hybris.valexandrovich.java_se.lecture_37.Application.main(null);
     }
 }

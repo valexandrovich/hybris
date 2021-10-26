@@ -1,4 +1,4 @@
-package com.hybris.valexandrovich.java_se.threading;
+package com.hybris.valexandrovich.java_se.lecture_35_36;
 
 import com.hybris.valexandrovich.Logger;
 
