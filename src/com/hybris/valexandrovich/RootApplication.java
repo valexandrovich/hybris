@@ -16,6 +16,8 @@ public class RootApplication {
         com.hybris.valexandrovich.java_se.lecture_39.Application.main(null);
         Thread.sleep(30000);
         com.hybris.valexandrovich.java_se.lecture_40.Application.main(null);
+        Thread.sleep(30000);
+        com.hybris.valexandrovich.java_se.lecture_41.Application.main(null);
 
 
     }
