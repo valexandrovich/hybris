@@ -4,6 +4,7 @@ import com.hybris.valexandrovich.Logger;
 
 public class Application {
     public static void main(String[] args) {
+        System.out.println("------- " + Application.class.getName() + " -------");
         Logger.addLine("------- " + Application.class.getName() + " -------");
         Sequence sequence = new Sequence();
 
@@ -12,6 +13,13 @@ public class Application {
 
         Worker worker2 = new Worker(sequence);
         worker2.start();
+
+        try {
+            worker1.join();
+            worker2.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
 
     }
 }

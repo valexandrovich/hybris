@@ -16,12 +16,12 @@ public class Producer implements Runnable {
     @Override
     public void run() {
         while (true) {
-            if (questionNumber > 10) System.exit(0);
+            if (questionNumber > 10) return;
             try {
                 synchronized (this) {
                     int nextQuestion = questionNumber++;
-                    System.out.println("Got new question " + nextQuestion);
-                    Logger.addLine("Got new question " + nextQuestion);
+                    System.out.println("NEW QUESTION " + nextQuestion);
+                    Logger.addLine("NEW QUESTION " + nextQuestion);
                     questionQueue.put(nextQuestion);
                 }
             } catch (InterruptedException e) {

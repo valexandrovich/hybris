@@ -5,6 +5,7 @@ import com.hybris.valexandrovich.Logger;
 public class Application {
     public static void main(String[] args) {
 
+        System.out.println("------- " + Application.class.getName() + " -------");
         Logger.addLine("------- " + Application.class.getName() + " -------");
 
         System.out.println("Starting Thread 1");
@@ -46,6 +47,12 @@ public class Application {
             }
         });
         t2.start();
+        try {
+            t1.join();
+            t2.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
     }
 }
 

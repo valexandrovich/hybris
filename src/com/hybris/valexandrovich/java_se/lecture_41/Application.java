@@ -27,14 +27,21 @@ public class Application {
 
          executor.shutdown();
 
-         try  {
-             executor.awaitTermination(2, TimeUnit.SECONDS);
-         } catch (InterruptedException e) {
-             e.printStackTrace();
-         }
+//         try  {
+//             executor.awaitTermination(2, TimeUnit.SECONDS);
+//         } catch (InterruptedException e) {
+//             e.printStackTrace();
+//         }
+
+        try {
+            executor.awaitTermination(24L, TimeUnit.HOURS);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
 
         System.out.println("Submitted all tasks ... ");
         Logger.addLine("Submitted all tasks ... ");
+
 
     }
 }

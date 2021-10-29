@@ -25,6 +25,7 @@ public class Logger {
 
     public static void addLine(String line) {
         pw.println(line);
+        pw.flush();
     }
 
     public static void closeFile() {

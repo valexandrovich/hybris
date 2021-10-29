@@ -17,11 +17,13 @@ public class Consumer implements Runnable {
     @Override
     public void run() {
         while (true) {
+
             try {
                 Thread.sleep(1000);
                 int question = questionQueue.take();
                 System.out.println("ANSWERED QUESTION " + question);
                 Logger.addLine("ANSWERED QUESTION " + question);
+                if (question == 10) return;
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

@@ -8,7 +8,6 @@ public class Producer implements Runnable {
 
     List<Integer> questionsList;
     final int LIMIT = 5;
-    private int questionNumber;
 
     public Producer(List<Integer> questionsList) {
         this.questionsList = questionsList;
@@ -34,13 +33,9 @@ public class Producer implements Runnable {
 
     @Override
     public void run() {
-        while (true) {
-            if (questionNumber > 10) {
-                System.exit(0);
-            }
-
+        for (int i = 1; i <= 10; i++) {
             try {
-                readQuestion(questionNumber++);
+                readQuestion(i);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

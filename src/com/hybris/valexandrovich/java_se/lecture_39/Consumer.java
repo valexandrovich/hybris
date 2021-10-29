@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Consumer implements Runnable {
     List<Integer> questionsList;
+    boolean isLastQuestionAnswered = false;
 
     public Consumer(List<Integer> questionsList) {
         this.questionsList = questionsList;
@@ -21,17 +22,20 @@ public class Consumer implements Runnable {
         }
 
         synchronized (questionsList) {
-            Thread.sleep(5000);
+            Thread.sleep(2000);
             int questionNumber = questionsList.remove(0);
             System.out.println("Answered question " + questionNumber);
             Logger.addLine("Answered question " + questionNumber);
+            if (questionNumber == 10) isLastQuestionAnswered = true;
             questionsList.notify();
+
+
         }
     }
 
     @Override
     public void run() {
-        while (true) {
+        while (!isLastQuestionAnswered) {
             try {
                 answerQuestion();
             } catch (InterruptedException e) {

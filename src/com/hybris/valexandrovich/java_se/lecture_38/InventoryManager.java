@@ -11,7 +11,7 @@ public class InventoryManager {
     List<Product> purchasedProductsList = new ArrayList<>();
 
     public void populateSoldProducts() {
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 100; i++) {
             Product product = new Product(i, "test_product_" + i);
             soldProductsList.add(product);
             System.out.println("ADDED " + product);
