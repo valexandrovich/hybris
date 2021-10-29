@@ -1,8 +1,10 @@
 package com.hybris.valexandrovich;
 
 
+import java.io.IOException;
+
 public class RootApplication {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, IOException {
         com.hybris.valexandrovich.java_se.lecture_25.Application.main(null);
         com.hybris.valexandrovich.java_se.lecture_26.Application.main(null);
         com.hybris.valexandrovich.java_se.lecture_27.Application.main(null);
@@ -15,6 +17,7 @@ public class RootApplication {
         com.hybris.valexandrovich.java_se.lecture_40.Application.main(null);
         com.hybris.valexandrovich.java_se.lecture_41.Application.main(null);
         com.hybris.valexandrovich.java_se.lecture_57_58.Application.main(null);
-        com.hybris.valexandrovich.java_se.lecture_59 .Application.main(null);
+        com.hybris.valexandrovich.java_se.lecture_59.Application.main(null);
+        com.hybris.valexandrovich.java_se.lecture_60.Application.main(null);
     }
 }

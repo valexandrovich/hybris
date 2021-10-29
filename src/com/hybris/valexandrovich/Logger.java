@@ -27,7 +27,10 @@ public class Logger {
         pw.println(line);
         pw.flush();
     }
-
+    public static void addChar(String line) {
+        pw.print(line);
+        pw.flush();
+    }
     public static void closeFile() {
         addLine("-------------------------------------------------------------\n");
         pw.close();
