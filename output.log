@@ -30,36 +30,36 @@ Joy : a felling of great pleasure and happiness
 Starting Thread 1
 Hello there ... 
 Starting Thread 2
-Number: 0 - Thread-1
 Number: 0 - Thread-2
-Number: 1 - Thread-1
+Number: 0 - Thread-1
 Number: 1 - Thread-2
-Number: 2 - Thread-1
+Number: 1 - Thread-1
 Number: 2 - Thread-2
+Number: 2 - Thread-1
 Number: 3 - Thread-1
 Number: 3 - Thread-2
-Number: 4 - Thread-1
 Number: 4 - Thread-2
-Number: 5 - Thread-1
+Number: 4 - Thread-1
 Number: 5 - Thread-2
+Number: 5 - Thread-1
 Number: 6 - Thread-1
 Number: 6 - Thread-2
 Number: 7 - Thread-1
 Number: 7 - Thread-2
-Number: 8 - Thread-2
 Number: 8 - Thread-1
+Number: 8 - Thread-2
 Number: 9 - Thread-1
 Number: 9 - Thread-2
-Number: 10 - Thread-2
 Number: 10 - Thread-1
-Number: 11 - Thread-2
+Number: 10 - Thread-2
 Number: 11 - Thread-1
-Number: 12 - Thread-2
+Number: 11 - Thread-2
 Number: 12 - Thread-1
-Number: 13 - Thread-2
+Number: 12 - Thread-2
 Number: 13 - Thread-1
-Number: 14 - Thread-2
+Number: 13 - Thread-2
 Number: 14 - Thread-1
+Number: 14 - Thread-2
 Number: 15 - Thread-1
 Number: 15 - Thread-2
 Number: 16 - Thread-1
@@ -68,138 +68,138 @@ Number: 17 - Thread-1
 Number: 17 - Thread-2
 Number: 18 - Thread-1
 Number: 18 - Thread-2
-Number: 19 - Thread-2
 Number: 19 - Thread-1
+Number: 19 - Thread-2
 Number: 20 - Thread-1
 Number: 20 - Thread-2
 Number: 21 - Thread-1
 Number: 21 - Thread-2
-Number: 22 - Thread-2
 Number: 22 - Thread-1
-Number: 23 - Thread-2
+Number: 22 - Thread-2
 Number: 23 - Thread-1
-Number: 24 - Thread-2
+Number: 23 - Thread-2
 Number: 24 - Thread-1
-Number: 25 - Thread-2
+Number: 24 - Thread-2
 Number: 25 - Thread-1
+Number: 25 - Thread-2
 Number: 26 - Thread-2
 Number: 26 - Thread-1
 Number: 27 - Thread-2
 Number: 27 - Thread-1
-Number: 28 - Thread-1
 Number: 28 - Thread-2
+Number: 28 - Thread-1
 Number: 29 - Thread-2
 Number: 29 - Thread-1
-Number: 30 - Thread-1
 Number: 30 - Thread-2
+Number: 30 - Thread-1
 Number: 31 - Thread-2
 Number: 31 - Thread-1
 Number: 32 - Thread-2
 Number: 32 - Thread-1
-Number: 33 - Thread-1
 Number: 33 - Thread-2
-Number: 34 - Thread-1
+Number: 33 - Thread-1
 Number: 34 - Thread-2
+Number: 34 - Thread-1
 Number: 35 - Thread-1
 Number: 35 - Thread-2
-Number: 36 - Thread-1
 Number: 36 - Thread-2
-Number: 37 - Thread-1
+Number: 36 - Thread-1
 Number: 37 - Thread-2
-Number: 38 - Thread-1
+Number: 37 - Thread-1
 Number: 38 - Thread-2
-Number: 39 - Thread-1
+Number: 38 - Thread-1
 Number: 39 - Thread-2
-Number: 40 - Thread-1
+Number: 39 - Thread-1
 Number: 40 - Thread-2
-Number: 41 - Thread-1
+Number: 40 - Thread-1
 Number: 41 - Thread-2
-Number: 42 - Thread-1
+Number: 41 - Thread-1
 Number: 42 - Thread-2
-Number: 43 - Thread-1
+Number: 42 - Thread-1
 Number: 43 - Thread-2
-Number: 44 - Thread-1
+Number: 43 - Thread-1
 Number: 44 - Thread-2
-Number: 45 - Thread-1
+Number: 44 - Thread-1
 Number: 45 - Thread-2
-Number: 46 - Thread-1
+Number: 45 - Thread-1
 Number: 46 - Thread-2
-Number: 47 - Thread-1
+Number: 46 - Thread-1
 Number: 47 - Thread-2
-Number: 48 - Thread-1
+Number: 47 - Thread-1
 Number: 48 - Thread-2
-Number: 49 - Thread-1
+Number: 48 - Thread-1
 Number: 49 - Thread-2
-Number: 50 - Thread-1
+Number: 49 - Thread-1
 Number: 50 - Thread-2
-Number: 51 - Thread-1
+Number: 50 - Thread-1
 Number: 51 - Thread-2
+Number: 51 - Thread-1
 Number: 52 - Thread-2
 Number: 52 - Thread-1
 Number: 53 - Thread-2
 Number: 53 - Thread-1
 Number: 54 - Thread-2
 Number: 54 - Thread-1
-Number: 55 - Thread-1
 Number: 55 - Thread-2
-Number: 56 - Thread-1
+Number: 55 - Thread-1
 Number: 56 - Thread-2
-Number: 57 - Thread-1
+Number: 56 - Thread-1
 Number: 57 - Thread-2
-Number: 58 - Thread-1
+Number: 57 - Thread-1
 Number: 58 - Thread-2
-Number: 59 - Thread-1
+Number: 58 - Thread-1
 Number: 59 - Thread-2
+Number: 59 - Thread-1
 Number: 60 - Thread-2
 Number: 60 - Thread-1
-Number: 61 - Thread-1
 Number: 61 - Thread-2
-Number: 62 - Thread-1
+Number: 61 - Thread-1
 Number: 62 - Thread-2
-Number: 63 - Thread-1
+Number: 62 - Thread-1
 Number: 63 - Thread-2
+Number: 63 - Thread-1
 Number: 64 - Thread-2
 Number: 64 - Thread-1
-Number: 65 - Thread-1
 Number: 65 - Thread-2
-Number: 66 - Thread-1
+Number: 65 - Thread-1
 Number: 66 - Thread-2
+Number: 66 - Thread-1
 Number: 67 - Thread-2
 Number: 67 - Thread-1
-Number: 68 - Thread-1
 Number: 68 - Thread-2
-Number: 69 - Thread-1
+Number: 68 - Thread-1
 Number: 69 - Thread-2
-Number: 70 - Thread-1
+Number: 69 - Thread-1
 Number: 70 - Thread-2
-Number: 71 - Thread-1
+Number: 70 - Thread-1
 Number: 71 - Thread-2
-Number: 72 - Thread-1
+Number: 71 - Thread-1
 Number: 72 - Thread-2
-Number: 73 - Thread-1
+Number: 72 - Thread-1
 Number: 73 - Thread-2
-Number: 74 - Thread-1
+Number: 73 - Thread-1
 Number: 74 - Thread-2
-Number: 75 - Thread-1
+Number: 74 - Thread-1
 Number: 75 - Thread-2
-Number: 76 - Thread-1
+Number: 75 - Thread-1
 Number: 76 - Thread-2
-Number: 77 - Thread-1
+Number: 76 - Thread-1
 Number: 77 - Thread-2
-Number: 78 - Thread-1
+Number: 77 - Thread-1
 Number: 78 - Thread-2
-Number: 79 - Thread-1
+Number: 78 - Thread-1
 Number: 79 - Thread-2
+Number: 79 - Thread-1
 Number: 80 - Thread-2
 Number: 80 - Thread-1
 Number: 81 - Thread-2
 Number: 81 - Thread-1
 Number: 82 - Thread-2
 Number: 82 - Thread-1
-Number: 83 - Thread-1
 Number: 83 - Thread-2
-Number: 84 - Thread-1
+Number: 83 - Thread-1
 Number: 84 - Thread-2
+Number: 84 - Thread-1
 Number: 85 - Thread-2
 Number: 85 - Thread-1
 Number: 86 - Thread-2
@@ -216,20 +216,20 @@ Number: 91 - Thread-2
 Number: 91 - Thread-1
 Number: 92 - Thread-2
 Number: 92 - Thread-1
-Number: 93 - Thread-1
 Number: 93 - Thread-2
-Number: 94 - Thread-1
+Number: 93 - Thread-1
 Number: 94 - Thread-2
-Number: 95 - Thread-1
+Number: 94 - Thread-1
 Number: 95 - Thread-2
-Number: 96 - Thread-1
+Number: 95 - Thread-1
 Number: 96 - Thread-2
-Number: 97 - Thread-1
+Number: 96 - Thread-1
 Number: 97 - Thread-2
-Number: 98 - Thread-1
+Number: 97 - Thread-1
 Number: 98 - Thread-2
-Number: 99 - Thread-1
+Number: 98 - Thread-1
 Number: 99 - Thread-2
+Number: 99 - Thread-1
 Number: 100 - Thread-1
 Number: 101 - Thread-1
 Number: 102 - Thread-1
@@ -1135,10 +1135,10 @@ Thread-4 got value 2
 Thread-3 got value 1
 Thread-4 got value 3
 Thread-3 got value 4
-Thread-4 got value 5
-Thread-3 got value 6
-Thread-3 got value 8
-Thread-4 got value 7
+Thread-3 got value 5
+Thread-4 got value 6
+Thread-3 got value 7
+Thread-4 got value 8
 Thread-3 got value 9
 Thread-4 got value 10
 Thread-3 got value 11
@@ -1147,12 +1147,12 @@ Thread-3 got value 13
 Thread-4 got value 14
 Thread-3 got value 15
 Thread-4 got value 16
-Thread-4 got value 17
-Thread-3 got value 18
-Thread-4 got value 19
-Thread-3 got value 20
-Thread-3 got value 22
-Thread-4 got value 21
+Thread-3 got value 17
+Thread-4 got value 18
+Thread-3 got value 19
+Thread-4 got value 20
+Thread-3 got value 21
+Thread-4 got value 22
 Thread-3 got value 23
 Thread-4 got value 24
 Thread-3 got value 25
@@ -1173,20 +1173,20 @@ Thread-3 got value 39
 Thread-4 got value 40
 Thread-3 got value 41
 Thread-4 got value 42
-Thread-4 got value 44
 Thread-3 got value 43
-Thread-4 got value 45
-Thread-3 got value 46
-Thread-4 got value 47
-Thread-3 got value 48
+Thread-4 got value 44
+Thread-3 got value 45
+Thread-4 got value 46
+Thread-3 got value 47
+Thread-4 got value 48
 Thread-3 got value 49
 Thread-4 got value 50
-Thread-4 got value 51
-Thread-3 got value 52
-Thread-4 got value 53
-Thread-3 got value 54
-Thread-4 got value 55
-Thread-3 got value 56
+Thread-3 got value 51
+Thread-4 got value 52
+Thread-3 got value 53
+Thread-4 got value 54
+Thread-3 got value 55
+Thread-4 got value 56
 Thread-3 got value 57
 Thread-4 got value 58
 Thread-3 got value 59
@@ -1201,84 +1201,84 @@ Thread-3 got value 67
 Thread-4 got value 68
 Thread-3 got value 69
 Thread-4 got value 70
-Thread-4 got value 71
-Thread-3 got value 72
+Thread-3 got value 71
+Thread-4 got value 72
 Thread-3 got value 73
 Thread-4 got value 74
 Thread-3 got value 75
 Thread-4 got value 76
 Thread-3 got value 77
 Thread-4 got value 78
-Thread-4 got value 80
 Thread-3 got value 79
+Thread-4 got value 80
 Thread-3 got value 81
 Thread-4 got value 82
-Thread-4 got value 83
-Thread-3 got value 84
+Thread-3 got value 83
+Thread-4 got value 84
 Thread-3 got value 85
 Thread-4 got value 86
 Thread-3 got value 87
 Thread-4 got value 88
-Thread-4 got value 89
-Thread-3 got value 90
-Thread-4 got value 91
-Thread-3 got value 92
-Thread-4 got value 93
-Thread-3 got value 94
-Thread-3 got value 96
-Thread-4 got value 95
-Thread-4 got value 97
-Thread-3 got value 98
-Thread-4 got value 99
-Thread-3 got value 100
+Thread-3 got value 89
+Thread-4 got value 90
+Thread-3 got value 91
+Thread-4 got value 92
+Thread-3 got value 93
+Thread-4 got value 94
+Thread-3 got value 95
+Thread-4 got value 96
+Thread-3 got value 97
+Thread-4 got value 98
+Thread-3 got value 99
+Thread-4 got value 100
 Thread-3 got value 101
 Thread-4 got value 102
 Thread-3 got value 103
 Thread-4 got value 104
 Thread-3 got value 105
 Thread-4 got value 106
-Thread-4 got value 107
-Thread-3 got value 108
-Thread-4 got value 109
-Thread-3 got value 110
-Thread-4 got value 111
-Thread-3 got value 112
-Thread-4 got value 113
-Thread-3 got value 114
-Thread-4 got value 115
-Thread-3 got value 116
-Thread-4 got value 117
-Thread-3 got value 118
-Thread-4 got value 119
-Thread-3 got value 120
-Thread-4 got value 121
-Thread-3 got value 122
-Thread-4 got value 123
-Thread-3 got value 124
-Thread-4 got value 125
-Thread-3 got value 126
-Thread-4 got value 127
-Thread-3 got value 128
-Thread-4 got value 129
-Thread-3 got value 130
-Thread-4 got value 131
-Thread-3 got value 132
-Thread-4 got value 134
+Thread-3 got value 107
+Thread-4 got value 108
+Thread-3 got value 109
+Thread-4 got value 110
+Thread-3 got value 111
+Thread-4 got value 112
+Thread-3 got value 113
+Thread-4 got value 114
+Thread-3 got value 115
+Thread-4 got value 116
+Thread-3 got value 117
+Thread-4 got value 118
+Thread-3 got value 119
+Thread-4 got value 120
+Thread-3 got value 121
+Thread-4 got value 122
+Thread-3 got value 123
+Thread-4 got value 124
+Thread-3 got value 125
+Thread-4 got value 126
+Thread-3 got value 127
+Thread-4 got value 128
+Thread-3 got value 129
+Thread-4 got value 130
+Thread-3 got value 131
+Thread-4 got value 132
 Thread-3 got value 133
-Thread-4 got value 135
-Thread-3 got value 136
-Thread-4 got value 137
-Thread-3 got value 138
-Thread-4 got value 139
-Thread-3 got value 140
+Thread-4 got value 134
+Thread-3 got value 135
+Thread-4 got value 136
+Thread-3 got value 137
+Thread-4 got value 138
+Thread-3 got value 139
+Thread-4 got value 140
 Thread-3 got value 141
 Thread-4 got value 142
 Thread-3 got value 143
 Thread-4 got value 144
-Thread-3 got value 145
-Thread-4 got value 146
-Thread-3 got value 147
-Thread-4 got value 148
+Thread-4 got value 145
+Thread-3 got value 146
+Thread-4 got value 147
+Thread-3 got value 148
 Thread-3 got value 149
 Thread-4 got value 150
 Thread-3 got value 151
@@ -1287,46 +1287,46 @@ Thread-3 got value 153
 Thread-4 got value 154
 Thread-3 got value 155
 Thread-4 got value 156
-Thread-3 got value 157
-Thread-4 got value 158
-Thread-3 got value 159
-Thread-4 got value 160
-Thread-3 got value 161
-Thread-4 got value 162
-Thread-3 got value 163
-Thread-4 got value 164
-Thread-3 got value 165
-Thread-4 got value 166
-Thread-3 got value 167
-Thread-4 got value 168
-Thread-3 got value 169
-Thread-4 got value 170
-Thread-3 got value 171
-Thread-4 got value 172
-Thread-3 got value 173
-Thread-4 got value 174
-Thread-3 got value 175
-Thread-4 got value 176
+Thread-4 got value 157
+Thread-3 got value 158
+Thread-4 got value 159
+Thread-3 got value 160
+Thread-4 got value 161
+Thread-3 got value 162
+Thread-4 got value 163
+Thread-3 got value 164
+Thread-4 got value 165
+Thread-3 got value 166
+Thread-4 got value 167
+Thread-3 got value 168
+Thread-4 got value 169
+Thread-3 got value 170
+Thread-4 got value 171
+Thread-3 got value 172
+Thread-4 got value 173
+Thread-3 got value 174
+Thread-4 got value 175
+Thread-3 got value 176
 Thread-3 got value 177
 Thread-4 got value 178
 Thread-3 got value 179
 Thread-4 got value 180
 Thread-3 got value 181
 Thread-4 got value 182
-Thread-3 got value 183
-Thread-4 got value 184
-Thread-3 got value 185
-Thread-4 got value 186
-Thread-3 got value 187
-Thread-4 got value 188
-Thread-3 got value 189
-Thread-4 got value 190
-Thread-3 got value 191
-Thread-4 got value 192
-Thread-3 got value 193
-Thread-4 got value 194
-Thread-3 got value 195
-Thread-4 got value 196
+Thread-4 got value 183
+Thread-3 got value 184
+Thread-4 got value 185
+Thread-3 got value 186
+Thread-4 got value 187
+Thread-3 got value 188
+Thread-4 got value 189
+Thread-3 got value 190
+Thread-4 got value 191
+Thread-3 got value 192
+Thread-4 got value 193
+Thread-3 got value 194
+Thread-4 got value 195
+Thread-3 got value 196
 Thread-3 got value 197
 Thread-4 got value 198
 Thread-3 got value 199
@@ -1537,23 +1537,23 @@ New question 1
 Answered question 1
 Waiting for Producer to get questions
 New question 2
-New question 3
 Answered question 2
-Answered question 3
 Waiting for Producer to get questions
+New question 3
 New question 4
-New question 5
+Answered question 3
 Answered question 4
-Answered question 5
 Waiting for Producer to get questions
+New question 5
 New question 6
-Answered question 6
-Waiting for Producer to get questions
 New question 7
+Answered question 5
+Answered question 6
 Answered question 7
 Waiting for Producer to get questions
 New question 8
 Answered question 8
+Waiting for Producer to get questions
 New question 9
 Answered question 9
 Waiting for Producer to get questions
@@ -1586,11 +1586,11 @@ ANSWERED QUESTION 10
 pool-1-thread-2 [RECIVED] Message = 2
 pool-1-thread-1 [RECIVED] Message = 1
 pool-1-thread-2 [DONE] Message = 2
+pool-1-thread-2 [RECIVED] Message = 3
 pool-1-thread-1 [DONE] Message = 1
-pool-1-thread-1 [RECIVED] Message = 3
-pool-1-thread-2 [RECIVED] Message = 4
-pool-1-thread-2 [DONE] Message = 4
-pool-1-thread-1 [DONE] Message = 3
+pool-1-thread-1 [RECIVED] Message = 4
+pool-1-thread-2 [DONE] Message = 3
+pool-1-thread-1 [DONE] Message = 4
 Submitted all tasks ... 
 ------- com.hybris.valexandrovich.java_se.lecture_57_58.Application -------
 Custom object walking ... 
@@ -1601,5 +1601,12 @@ Hello there ..
 2
 elciheV
 3628800
+------- com.hybris.valexandrovich.java_se.lecture_59.Application -------
+Price: 22300; Color: Red
+Printing cars between $18000 and $22000
+Car{make='Mitsubishi', model='Lancer', color='White', price=20000}
+Printing BLUE cars
+Car{make='Honda', model='Civic', color='Blue', price=17700}
+Car{make='Toyota', model='Camry', color='Blue', price=24000}
 -------------------------------------------------------------
 
