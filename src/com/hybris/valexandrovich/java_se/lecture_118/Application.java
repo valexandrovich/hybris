@@ -1,7 +1,6 @@
-package com.hybris.valexandrovich.java_ee.lecture_118;
+package com.hybris.valexandrovich.java_se.lecture_118;
 
 import com.hybris.valexandrovich.Logger;
-import org.w3c.dom.ls.LSOutput;
 
 import java.text.SimpleDateFormat;
 import java.time.LocalDate;

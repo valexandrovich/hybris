@@ -1,4 +1,4 @@
-package com.hybris.valexandrovich.java_ee.lecture_119;
+package com.hybris.valexandrovich.java_se.lecture_119;
 
 import com.hybris.valexandrovich.Logger;
 
