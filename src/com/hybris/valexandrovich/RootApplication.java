@@ -26,6 +26,7 @@ public class RootApplication {
         com.hybris.valexandrovich.java_ee.lecture_116.Application.main(null);
         com.hybris.valexandrovich.java_ee.lecture_117.Application.main(null);
         com.hybris.valexandrovich.java_ee.lecture_118.Application.main(null);
+        com.hybris.valexandrovich.java_ee.lecture_119.Application.main(null);
 
     }
 }
